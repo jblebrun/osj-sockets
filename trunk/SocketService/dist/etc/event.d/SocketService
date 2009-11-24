@@ -1,0 +1,8 @@
+description "Socket service"
+
+start on started java-serviceboot
+
+#console output
+exec /usr/bin/luna-helper 'luna://com.palm.vm/launch' '{"serviceName":"info.opensourcejason.services.socket","className":"info.opensourcejason.services.SocketService"}'
+#respawn
+

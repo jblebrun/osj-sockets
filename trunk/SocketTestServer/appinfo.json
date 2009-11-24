@@ -1,0 +1,9 @@
+{
+	"id": "info.opensourcejason.sockettestserver",
+	"version": "1.0.0",
+	"vendor": "OpenSourceJason",
+	"type": "web",
+	"main": "index.html",
+	"title": "SocketTestServer",
+	"icon": "icon.png"
+}

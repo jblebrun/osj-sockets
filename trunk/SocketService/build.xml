@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<project name="SocketService" default="jar">
+    <target name="jar">
+        <jar destfile="dist/usr/lib/luna/java/SocketService.jar">
+            <fileset dir="bin" />
+        </jar>
+    </target>
+</project>
