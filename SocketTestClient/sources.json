@@ -1,0 +1,8 @@
+[
+    {"source": "app\/assistants\/stage-assistant.js"},
+    {"source": "\/usr\/palm\/frameworks\/osj-sockets\/socket.js"},
+    {
+        "scenes": "main",
+        "source": "app\/assistants\/main-assistant.js"
+    }
+]

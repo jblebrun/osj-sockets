@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=info.opensourcejason.services.socket
+Exec=/usr/bin/luna-helper 'luna://com.palm.vm/launch' '{"serviceName":"info.opensourcejason.services.socket","className":"info.opensourcejason.services.SocketService"}'

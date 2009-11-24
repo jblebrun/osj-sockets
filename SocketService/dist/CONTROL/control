@@ -1,0 +1,9 @@
+Package: info.opensourcejason.services.socket 
+Priority: optional
+Section: Network
+Version: 0.5
+Architecture: all
+Maintainer: Jason LeBrun jason@opensourcejason.info
+Depends: 
+Description: A webOS socket service
+

@@ -1,0 +1,7 @@
+mount -o remount,ro /
+stop java-serviceboot
+start java-serviceboot
+start SocketService
+stop SocketService
+start SocketService
+
